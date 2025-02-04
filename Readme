@@ -1,0 +1,21 @@
+# 🔍 Fake Website Detector  
+A simple Python tool to detect suspicious or phishing websites based on common patterns.  
+
+## 📌 Features  
+✅ Detects **phishing domains** using common patterns  
+✅ Checks if a website is **accessible or down**  
+✅ Super **easy to use**, just enter a URL  
+
+## 🚀 How to Use  
+### 1️⃣ Install Required Library  
+Before running, install the `requests` module:  
+```sh
+pip install requests
+
+
+Run the Script:
+python fake_website_detector.py
+
+Enter a Website URL:
+Example : 🔗 Enter website URL (e.g., https://example.com): https://free-gift.xyz
+
